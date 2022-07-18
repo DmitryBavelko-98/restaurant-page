@@ -9,7 +9,7 @@ export default function renderMenu() {
                 <div class="page__info">
                     <p>Our menu is the best!</p>
                 </div>
-                <img class="page__image" src="../src/page-1.webp" alt="">
+                <img class="page__image" src="../src/page-2.jpg" alt="">
             </div>
         </section>
     `;
